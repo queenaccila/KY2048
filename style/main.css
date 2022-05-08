@@ -758,28 +758,28 @@ hr {
   .tile .tile-inner {
     font-size: 35px; }
   .tile.tile-2 .tile-inner {
-    background: #A0EECC url('../img/J01.gif');
+    background: #A0EECC url('../img/KYGif02.gif');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
   .tile.tile-4 .tile-inner {
-    background: #A0EECC url('../img/k01.gif');
+    background: #A0EECC url('../img/KYGif04.gif');
     background-size: cover;    
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: #A0EECC url('../img/J02.gif');
+    background: #A0EECC url('../img/KYGif08.gif');
     background-size: cover;}
   .tile.tile-16 .tile-inner {
-    background: #A0EECC url('../img/k02.gif');
+    background: #A0EECC url('../img/KYGif16.gif');
     background-size: cover;}
   .tile.tile-32 .tile-inner {
-    background: #A0EECC url('../img/J03.gif');
+    background: #A0EECC url('../img/KYGif32.gif');
     background-size: cover;}
   .tile.tile-64 .tile-inner {
-    background: #A0EECC url('../img/k03.gif');
+    background: #A0EECC url('../img/KYGif64.gif');
     background-size: cover;}
   .tile.tile-128 .tile-inner {
-    background: #A0EECC url('../img/J04.gif');
+    background: #A0EECC url('../img/KYGif128.gif');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -787,7 +787,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background: #A0EECC url('../img/k04.gif');
+    background: #A0EECC url('../img/KYGif216.gif');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -795,7 +795,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background: #A0EECC url('../img/J05.gif');
+    background: #A0EECC url('../img/KYGif512.gif');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -803,7 +803,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #A0EECC url('../img/k05.gif');
+    background: #A0EECC url('../img/KYGif1024.gif');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
@@ -811,7 +811,7 @@ hr {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background: #A0EECC url('../img/Jk.gif');
+    background: #A0EECC url('../img/KYGif2048.gif');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
