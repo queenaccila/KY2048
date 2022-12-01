@@ -1,7 +1,7 @@
 # YK2048
 Done as a small project with characters Yagami Takayuki and Kaito Masuharu from the video game 'Judgment' by Ryu Ga Gotoku Studios
 
-Made some small image changes from this version of the 2048 game [here](https://github.com/jk-2048/JK2048)
+Made image changes from this version of the 2048 game [here](https://github.com/jk-2048/JK2048)
 
 Originally tweaked from Gabriele Cirulli's code base [here](https://github.com/gabrielecirulli/2048)
 
